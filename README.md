@@ -6,8 +6,6 @@
 
 Este é um excelente projeto de guia turístico! O código está bem estruturado e focado em apresentar os diversos aspectos do Rio de Janeiro.
 
-Abaixo, preparei um modelo de **README.md** profissional, otimizado para o GitHub, utilizando Markdown para facilitar a leitura e destacar as tecnologias que você usou.
-
 ---
 
 # 📝 README.md

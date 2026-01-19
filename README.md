@@ -69,6 +69,23 @@ O design utiliza uma paleta de cores que remete à bandeira e ao mar do Rio:
 2. Navegue até a pasta do projeto.
 3. Abra o arquivo `index.html` em qualquer navegador moderno.
 
+🌊 Veja o modelo ilustrativo do site
+
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/6a86694b-5bb3-4227-918e-86a6cf9452e8" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/11494a83-6efd-4b5f-884d-045fc53902d4" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/783d38ef-188f-4157-9138-c0e3470c92b6" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/780134c6-7dc1-46c1-91c4-071bec108cb1" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/0b9fb451-b017-4c8c-9797-f1baee641f15" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/fec493ea-6898-4383-8c11-33452ea24e70" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/e1f6ebd4-2f15-4ddb-9705-b38f7f2b0573" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/b900abed-c0b8-4170-ac98-11359d8631bb" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/7f2f6ac8-0544-48e2-9b62-d9e2f5a270d9" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/b107ffa9-e802-4317-b982-62b25239763f" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/04fb21d2-0738-4ad6-aa8b-1f3de815aab9" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/e3de95c1-87ea-474b-9d2b-fa1ccdd18b9a" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/9ab7c496-0936-44b2-a032-9365f6ab0ef9" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/63438649-1c8c-4000-9bb6-003635d661ec" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/beceae53-4f5b-445f-8a06-c03aaafcbb97" />
 
 
 ## 👤 Autora

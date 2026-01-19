@@ -69,12 +69,12 @@ O design utiliza uma paleta de cores que remete à bandeira e ao mar do Rio:
 2. Navegue até a pasta do projeto.
 3. Abra o arquivo `index.html` em qualquer navegador moderno.
 
----
+
 
 ## 👤 Autora
 
 Desenvolvido por **[Meirejane Chaves]** – 2026.
-```
+
 
 
    

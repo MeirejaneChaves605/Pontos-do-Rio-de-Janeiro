@@ -62,7 +62,7 @@ O design utiliza uma paleta de cores que remete à bandeira e ao mar do Rio:
 
 1. Faça o clone deste repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+   git clone [https://github.com/MeirejaneChaves605/Pontos-do-Rio-de-Janeiro.git](https://github.com/MeirejaneChaves605/Pontos-do-Rio-de-Janeiro.git)
 
 ```
 

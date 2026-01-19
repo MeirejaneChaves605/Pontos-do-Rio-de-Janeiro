@@ -71,7 +71,7 @@ O design utiliza uma paleta de cores que remete à bandeira e ao mar do Rio:
 2. Navegue até a pasta do projeto.
 3. Abra o arquivo `index.html` em qualquer navegador moderno.
 
-🌊 Veja o modelo ilustrativo do site
+# 🌊 Veja o modelo ilustrativo do site
 
 <img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/6a86694b-5bb3-4227-918e-86a6cf9452e8" />
 <img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/11494a83-6efd-4b5f-884d-045fc53902d4" />

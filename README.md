@@ -100,20 +100,64 @@ O projeto foi construído utilizando tecnologias fundamentais do desenvolvimento
 
 O site é composto pelas seguintes páginas:
 
-* `index.html`: Página inicial com os destaques principais.
-* `praias.html`: Catálogo das praias da capital e da Região dos Lagos/Costa Verde.
-* `comunidades.html`: Espaço dedicado à história e cultura das comunidades do Rio.
-* `centro.html`: (Estrutura pronta para expansão do centro histórico).
-* `style.css`: Arquivo único de estilização que mantém a identidade visual em todo o site.
+```text
+/
+├── index.html          # Página principal (Destaques)
+├── praias.html         # Listagem de praias e litoral
+├── comunidades.html    # Informações sobre comunidades e favelas
+├── centro.html         # Seção do Centro Histórico (Placeholder)
+├── style.css           # Folha de estilo unificada
+└── img/                # Diretório de imagens e ilustrações
 
-### 🎨 Design
-
-O esquema de cores utiliza um **Azul Clássico (#003399)** no cabeçalho, remetendo às cores da bandeira e ao mar do Rio de Janeiro, com fundos neutros para dar destaque às imagens das paisagens.
-
+```
 ---
 
 
+Este é um excelente projeto de guia turístico! Como você organizou o conteúdo em diferentes páginas (Home, Praias e Comunidades) com um design responsivo, o **README** deve destacar tanto a organização do código quanto o valor cultural do conteúdo.
 
+Aqui está uma sugestão de **README.md** profissional e bem estruturado para o seu repositório:
+
+---
+
+# 🌴 Explorando o Rio de Janeiro - Guia Digital
+
+Um guia web completo e interativo sobre a "Cidade Maravilhosa", apresentando seus principais pontos turísticos, as praias mais famosas e a vibrante cultura das comunidades cariocas.
+
+## 📌 Sobre o Projeto
+
+Este projeto foi desenvolvido para oferecer uma experiência de navegação simples e agradável para quem deseja conhecer o Rio de Janeiro. O site é dividido em seções temáticas que cobrem desde o Centro Histórico até as belezas naturais da Costa Verde e o cotidiano das comunidades.
+
+### 🗺️ Seções Incluídas:
+
+* **Home:** Destaques icônicos como o Cristo Redentor e o Pão de Açúcar.
+* **Praias:** Um tour pelas areias de Copacabana, Ipanema até o paraíso de Angra e Búzios.
+* **Comunidades:** Espaço dedicado à história, voz e cultura de locais como Rocinha, Vidigal e Complexo do Alemão.
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+O projeto utiliza tecnologias fundamentais do desenvolvimento web para garantir performance e responsividade:
+
+* **HTML5:** Estruturação semântica de todo o conteúdo.
+* **CSS3:** Estilização moderna, incluindo:
+* **Flexbox:** Para alinhamento e distribuição dos cards de conteúdo.
+* **Media Queries:** Garantindo que o site funcione perfeitamente em celulares, tablets e desktops.
+* **Google Fonts / Web Safe Fonts:** Tipografia focada em legibilidade.
+
+
+
+---
+
+## 🎨 Design e Layout
+
+O design foi pensado para ser limpo e visual, utilizando:
+
+* **Cores Acadêmicas:** Azul clássico no header para transmitir confiança e remeter às cores do estado.
+* **Cards de Conteúdo:** Layout em grid flexível que organiza as informações de forma escaneável.
+* **Responsividade:** Menu adaptável para dispositivos móveis (empilhamento vertical em telas menores).
+
+---
 ---
 
 # 🌊 Veja o modelo ilustrativo do site

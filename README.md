@@ -71,9 +71,7 @@ O design utiliza uma paleta de cores que remete à bandeira e ao mar do Rio:
 2. Navegue até a pasta do projeto.
 3. Abra o arquivo `index.html` em qualquer navegador moderno.
 
-   Este é um excelente projeto para o seu portfólio! Como o seu código foca na experiência turística do Rio de Janeiro, com um design limpo e organizado, o README deve refletir esse cuidado e profissionalismo.
-
-Aqui está uma sugestão de **README.md** completa, formatada em Markdown, pronta para você copiar e colar:
+   Este é um excelente projeto para o seu portfólio! Como o código foca na experiência turística do Rio de Janeiro, com um design limpo e organizado.
 
 ---
 
@@ -114,8 +112,6 @@ O site é composto pelas seguintes páginas:
 
 
 Este é um excelente projeto de guia turístico! Como você organizou o conteúdo em diferentes páginas (Home, Praias e Comunidades) com um design responsivo, o **README** deve destacar tanto a organização do código quanto o valor cultural do conteúdo.
-
-Aqui está uma sugestão de **README.md** profissional e bem estruturado para o seu repositório:
 
 ---
 

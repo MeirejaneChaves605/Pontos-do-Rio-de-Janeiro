@@ -48,6 +48,7 @@ O site é dividido em quatro seções principais:
 
 ---
 
+---
 ## 🎨 Layout e Estilo
 
 O design utiliza uma paleta de cores que remete à bandeira e ao mar do Rio:
@@ -75,8 +76,5 @@ O design utiliza uma paleta de cores que remete à bandeira e ao mar do Rio:
 Desenvolvido por **[Meirejane Chaves]** – 2026.
 ```
 
----
 
-
-```
    

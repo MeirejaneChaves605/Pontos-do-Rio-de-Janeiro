@@ -89,6 +89,12 @@ O design utiliza uma paleta de cores que remete à bandeira e ao mar do Rio:
 <img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/63438649-1c8c-4000-9bb6-003635d661ec" />
 <img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/beceae53-4f5b-445f-8a06-c03aaafcbb97" />
 
+# 🌊🌈🌞 Gifs das imagens do site
+
+
+![1000093824](https://github.com/user-attachments/assets/7bb06f16-310c-41c7-91f2-667bafe2cd8d)
+
+
 
 # 🎭 Vídeos de alguns pontos turísticos do Rio de Janeiro - RJ
 

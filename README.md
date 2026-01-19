@@ -100,6 +100,17 @@ https://github.com/user-attachments/assets/d157be30-b02f-4608-86b7-12952cd3b075
 https://github.com/user-attachments/assets/6e7c9dfd-d504-4021-92ce-035edb4c3df1
 
 
+[Início da Animação]
+1. Página inicial (cabeçalho)
+2. Cristo Redentor (Home)
+3. Pão de Açúcar (Home)
+4. Centro Histórico (Arcos da Lapa, Escadaria Selarón, Confeitaria Colombo)
+5. Mais do Centro (AquaRio, Museu do Amanhã, Parque Lage)
+6. Outras cidades (Niterói, Flamengo, Paraty) - *Nota: essa tela parece ser do "Centro Histórico" mas com conteúdo variado, talvez "outros pontos do Rio"?*
+7. Página de Praias (cabeçalho)
+8. Copacabana, Ipanema, Praia Vermelha (Praias)
+9. Barra da Tijuca, Recreio, Lopes Mendes (Praias)
+[Fim da Animação]
 
 ## 👩‍💻 Autora
 

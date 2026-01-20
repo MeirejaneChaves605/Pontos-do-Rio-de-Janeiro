@@ -178,6 +178,16 @@ O design foi pensado para ser limpo e visual, utilizando:
 ![1000093824](https://github.com/user-attachments/assets/7bb06f16-310c-41c7-91f2-667bafe2cd8d)
 
 
+# 💥 Vídeo do site criado
+
+
+
+
+https://github.com/user-attachments/assets/7dd189c9-c8e5-4ed1-af80-6bde7b3ba417
+
+
+
+
 
 # 🎭 Vídeos de alguns pontos turísticos do Rio de Janeiro - RJ
 
